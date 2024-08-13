@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "declaration": true,
+      "outDir": "./lib",
+      "strict": true,
+      "lib": [
+        "es6"
+      ]
+    },
+    "include": ["./src/**/*"],
+    "allowJs": true,
+    "exclude": ["node_modules", "**/__tests__/*"]
+  }

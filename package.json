@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HughLK/enumbookjs.git"
+    "url": "git+https://github.com/HughLK/enummanager.git"
   },
   "keywords": [
-    "enumbookjs",
+    "enummanager",
     "enum",
     "enum manage"
   ],
   "author": "HughLK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HughLK/bimapjs/issues"
+    "url": "https://github.com/HughLK/enummanager/issues"
   },
-  "homepage": "https://github.com/HughLK/enumbookjs#readme",
+  "homepage": "https://github.com/HughLK/enummanager#readme",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@typescript-eslint/eslint-plugin": "^7.15.0",

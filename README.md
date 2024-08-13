@@ -3,7 +3,8 @@ A simple and useful Enum Management Javascript library
 ## Install
 ```npm i enummanager```
 ## Usage
-```import {EnumManager} from "EnumManager";
+```
+import {EnumManager} from "EnumManager";
 
 const enumManager = new EnumManager();
 // put(Enum Name, Tuple Array), every tuple likes [fieldName, value, description]

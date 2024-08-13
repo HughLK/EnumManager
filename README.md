@@ -1,10 +1,12 @@
 # EnumManager
 A simple and useful Enum Management Javascript library
 ## Install
-```npm i enummanager```
-## Usage
+```bash
+npm install --save-dev enummanager
 ```
-import {EnumManager} from "EnumManager";
+## Usage
+```javascript
+import {EnumManager} from "enummanager";
 
 const enumManager = new EnumManager();
 // put(Enum Name, Tuple Array), every tuple likes [fieldName, value, description]

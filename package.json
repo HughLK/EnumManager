@@ -1,5 +1,5 @@
 {
-  "name": "enumbookjs",
+  "name": "enummanager",
   "version": "1.0.0",
   "description": "A simple and useful enum management Javascript library",
   "main": "index.ts",
@@ -17,7 +17,7 @@
   "keywords": [
     "enummanager",
     "enum",
-    "enum manage"
+    "enum management"
   ],
   "author": "HughLK",
   "license": "MIT",
